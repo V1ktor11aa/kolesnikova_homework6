@@ -99,3 +99,4 @@ while True:
 
 # Эмулируем покупку билетов
 customer.buy_ticket(selected_concert, selected_time, seat_type, quantity, payment_method)
+# Отлично! Одно из лучших решений этой задачи, очень крутая логика, очень интересно выглядит
